@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /assets/fonts/
+Disallow: /assets/img/fon.jpg
+# Sitemap: //xn--e1aghjtg4a3b.xn--90ais/sitemap.xml
+
+User-agent: Yandex
+Disallow: /assets/fonts/
+Disallow: /assets/img/fon.jpg
+Host: xn--e1aghjtg4a3b.xn--90ais
+# Sitemap: //xn--e1aghjtg4a3b.xn--90ais/sitemap.xml
